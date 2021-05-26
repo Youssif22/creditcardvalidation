@@ -1,8 +1,3 @@
-/* Name: Youssif Hisham
-   ID: 20200675
-   Name: Marwan Mohamed
-   ID:   20200512                       */
-
 #include <iostream>
 #include <cstdlib>
 using namespace std;
