@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621910155 source:j:\programming\cb\task3\main.cpp
+	<iostream>
+	<cstdlib>
+
